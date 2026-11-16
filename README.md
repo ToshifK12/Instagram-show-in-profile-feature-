@@ -1,6 +1,3 @@
-Here's the full README with your links filled in and the two top lines separated. In GitHub, open `README.md`, click the pencil icon, select everything, paste this over it, and commit.
-
-````markdown
 # Show in Profile
 
 A feature concept for Instagram Reels: one tap takes you from a reel to its exact spot in the creator's profile grid, so "Part 2" is right next to it.
@@ -75,4 +72,3 @@ Open `index.html` in a browser. No install needed.
 ## Author
 
 Toshif Khan, B.S. Computer Science, Minot State University (Class of 2027)
-````
