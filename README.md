@@ -4,7 +4,10 @@ A feature concept for Instagram Reels: one tap takes you from a reel to its exac
 
 **Live demo:** https://toshifk12.github.io/Instagram-show-in-profile-feature-/
 
-**Demo video:** [demo.mp4](demo.mp4)
+
+https://github.com/user-attachments/assets/51c770ef-22cd-408c-96ef-cd0bf9b59839
+
+
 
 > This is an independent concept project. It is not affiliated with Instagram or Meta, and uses no Instagram code, logos, or assets.
 
