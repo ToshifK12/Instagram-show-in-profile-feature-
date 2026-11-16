@@ -2,7 +2,7 @@
 
 A feature concept for Instagram Reels: one tap takes you from a reel to its exact spot in the creator's profile grid, so "Part 2" is right next to it.
 
-**Live demo:** `https://YOUR-USERNAME.github.io/show-in-profile/` (after enabling GitHub Pages)
+**Live demo:** https://toshifk12.github.io/Instagram-show-in-profile-feature-/
 **Demo video:** [demo.mp4](demo.mp4)
 
 > This is an independent concept project. It is not affiliated with Instagram or Meta, and uses no Instagram code, logos, or assets.
